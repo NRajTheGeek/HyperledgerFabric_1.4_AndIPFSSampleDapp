@@ -7,7 +7,6 @@ var express = require("express");
 var path = require("path");
 var cookieParser = require("cookie-parser");
 var http = require("http");
-var debug = require("debug")("fabric-ipfs-sampledapp:server");
 var fs = require("fs");
 var path = require("path");
 var swaggerUi = require("swagger-ui-express");
