@@ -1,0 +1,24 @@
+{
+    "7321348c8894678447b54c888fdbc4e4b825bf4d1eb0cfb27874286a23ea9fd2": {
+        "owner": "Neeraj",
+        "publishDetail": [
+            {
+                "QmbQYWGvUN8ThEX4vsJSLbzr2TWrtH3RD2LRvMqTLGeYBX": {
+                    "publishedBy": "Maintainer",
+                    "certOwner": "Neeraj",
+                    "publicationDate": "2019-01-28T18:23:00.598Z",
+                    "publicationDescription": "this is a digital pub"
+                }
+            }
+        ],
+        "shareDetail": [
+            {
+                "QmNZBa5gbb2jdabW5hU4cz87iptqZgasYCzexDmLCdqzbq": {
+                    "sharedBy": "Neeraj",
+                    "sharedWith": "",
+                    "sharingDescription": ""
+                }
+            }
+        ]
+    }
+}
